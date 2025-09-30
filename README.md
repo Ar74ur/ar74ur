@@ -25,7 +25,6 @@
 <div align="center">
   <img height=180 align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ar74ur&theme=highcontrast&show_icons=true&count_private=true&rank_icon=github&font=Iosevka"/>
   <img height=180 align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ar74ur&theme=highcontrast&layout=compact&font=Iosevka&langs_count=16"/>
-  <img height=180 align="center" alt="Github Commits" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ar74ur&theme=highcontrast&utcOffset=8&layout=compact&font=Iosevka&langs_count=16"/>
   <br>
   <br>
   <img width="54%" height=180 align="center" alt="GitHub Contribution" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ar74ur&theme=highcontrast&show_icons=true&count_private=true&rank_icon=github&font=Iosevka"/>
@@ -51,7 +50,6 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" /> 
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />  
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />  
