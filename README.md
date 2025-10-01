@@ -15,8 +15,36 @@
 
 <br>
 
+## 🚀 Featured Project
+
+### 🕹️ [AzyhuScripts - Lua Script Marketplace](https://azyhuscripts.com.br)
+
+**Professional Lua scripting platform for OTs Tibia with automated license management**
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Ar74ur-1A1A1A?style=flat&labelColor=FFD700&color=1A1A1A" />
+
+![Frontend](https://img.shields.io/badge/Frontend-Angular-1A1A1A?style=flat-square&logo=Angular&logoColor=1A1A1A&labelColor=FFD700)
+![Backend](https://img.shields.io/badge/Backend-Python_Flask-1A1A1A?style=flat-square&logo=flask&logoColor=1A1A1A&labelColor=FFD700)
+![Database](https://img.shields.io/badge/Database-PostgreSQL-1A1A1A?style=flat-square&logo=postgresql&logoColor=1A1A1A&labelColor=FFD700)
+![Core](https://img.shields.io/badge/Core-C++_DLL-1A1A1A?style=flat-square&logo=cplusplus&logoColor=1A1A1A&labelColor=FFD700)
+![Payment](https://img.shields.io/badge/Payment-Mercado_Pago-1A1A1A?style=flat-square&logo=mercadopago&logoColor=1A1A1A&labelColor=FFD700)
+![Cloud](https://img.shields.io/badge/Cloud-Linux_VM_+_Docker-1A1A1A?style=flat-square&logo=docker&logoColor=1A1A1A&labelColor=FFD700)
+
+</div>
+
+#### ⚙️ Architecture Overview
+
+- **Frontend:** Modern Angular SPA for script showcase and sales
+- **Backend:** Python Flask API handling user management & licensing
+- **Database:** PostgreSQL for user data and license tracking
+- **Core Engine:** Custom C++ DLL for script execution and protection
+- **Payment:** Mercado Pago integration for secure transactions
+- **Infrastructure:** Linux VM with Docker containerization for scalability
+
+<div align="center">
+
+[![Visit Website](https://img.shields.io/badge/🔗_Visit_Website-azyhuscripts.com.br-FFD700?style=for-the-badge&labelColor=1A1A1A)](https://azyhuscripts.com.br)
+
 </div>
       
 <br>
